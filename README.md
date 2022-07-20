@@ -1,5 +1,5 @@
 # rnd_subansiri
-AI-Based Framework to analyse and predict the flow of mid-line channel of Subansiri River using remote sensing and GIS
+# AI-Based Framework to analyse and predict the flow of mid-line channel of Subansiri River using remote sensing and GIS
 
 This was the research project I worked on during the R&D course in my sixth semester which is still ongoing. Me and my team worked on this project for a time period of 5 months.
 
